@@ -1,9 +1,7 @@
 # Budget-Tracker
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 Heroku Application: 
-![](https://i.gyazo.com/2e8b8d8c64958b81f902bc32e5860c6d.png)
-
-
+![](https://i.gyazo.com/fc87bbfea88d08d3dffc30c83c5500aa.png)
 
 ## Table of Contents
   - [Description](#description)
@@ -12,9 +10,8 @@ Heroku Application:
   - [Usage](#usage)
   - [License](#license)
 
-
 ## Description
-A Budget Tracker application that tracks user deposits and spendings which also works offline using PWA. 
+A Budget Tracker application that tracks user deposits and spendings which also works offline using Indexeddb and PWA. 
 
 ## Installation 
 Install node, mongodb, express, mongoose, webpack npms before usage. 
